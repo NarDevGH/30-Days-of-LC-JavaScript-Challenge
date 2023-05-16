@@ -14,3 +14,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 8 | Function Input and Output | Memoize
 | 10 | Function Input and Output | Curry
 | 11 | Promise | Sleep
+| 12 | Promise | Promise Time Limit
