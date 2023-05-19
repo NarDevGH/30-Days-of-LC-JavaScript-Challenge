@@ -16,3 +16,5 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 11 | Promise | Sleep
 | 12 | Promise | Promise Time Limit
 | 13 | Promise | Promise Pool
+| 14 | Time (setTimeout) | Cache with Time Limit
+| 15 | Time (setTimeout) | Debounce
