@@ -19,3 +19,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 13 | Promise | [Promise Pool](./Day%2013/day13.js)
 | 14 | Time (setTimeout) | [Cache with Time Limit](./Day%2014/day14.js)
 | 15 | Time (setTimeout) | [Debounce](./Day%2015/day15.js)
+| 16 | Time (setTimeout) | [Throttle](./Day%2016/day16.js)
