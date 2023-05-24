@@ -21,6 +21,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 15 | Time (setTimeout) | [Debounce](./Day%2015/day15.js)
 | 16 | Time (setTimeout) | [Throttle](./Day%2016/day16.js)
 | 17 | JSON / Recursion / Important Utilities | [JSON Deep Equal](./Day%2017/day17.js)
-| 18 | JSON / Recursion / Important Utilities | [Convert Object to JSON String](./Day%2018/day18.js)
-| 19 | JSON / Recursion / Important Utilities | [Array of Object to JSON String](./Day%2019/day19.js)
 | 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects](./Day%2020/day20.js)
