@@ -26,3 +26,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects](./Day%2020/day20.js)
 | 21 | JSON / Recursion / Important Utilities | [Chunk Array](./Day%2021/day21.js)
 | 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array](./Day%2022/day22.js)
+| 23 | this | [Array Prototype Last](./Day%2023/day23.js)
