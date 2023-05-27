@@ -25,4 +25,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 19 | JSON / Recursion / Important Utilities | [Array of Object to JSON String](./Day%2019/day19.js)
 | 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects](./Day%2020/day20.js)
 | 21 | JSON / Recursion / Important Utilities | [Chunk Array](./Day%2021/day21.js)
-| 21 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array](./Day%2022/day22.js)
+| 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array](./Day%2022/day22.js)
