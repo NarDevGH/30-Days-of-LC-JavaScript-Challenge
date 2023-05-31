@@ -29,3 +29,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 23 | this | [Array Prototype Last](./Day%2023/day23.js)
 | 24 | this | [Group By](./Day%2024/day24.js)
 | 25 | this | [Call function with custom context](./Day%2025/day25.js) 
+| 26 | this | [Check if object instance of a class](./Day%2026/day26.js) 
