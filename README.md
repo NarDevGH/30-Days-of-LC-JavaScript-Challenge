@@ -33,3 +33,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 27 | Classes | [Event Emitter](./Day%2027/day27.js) 
 | 28 | Classes | [Array Wrapper](./Day%2028/day28.js) 
 | 29 | Generators | [Generate Fibonacci Sequence](./Day%2029/day29.js) 
+| 30 | Generators | [Nested Array Generator](./Day%2030/day30.js) 
