@@ -32,3 +32,4 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 | 26 | this | [Check if object instance of a class](./Day%2026/day26.js) 
 | 27 | Classes | [Event Emitter](./Day%2027/day27.js) 
 | 28 | Classes | [Array Wrapper](./Day%2028/day28.js) 
+| 29 | Generators | [Generate Fibonacci Sequence](./Day%2029/day29.js) 
